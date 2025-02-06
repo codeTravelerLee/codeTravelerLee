@@ -41,4 +41,11 @@ Here are some ideas to get you started:
 ![Rest Client](https://img.shields.io/badge/Rest%20Client-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeTravelerLee&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🏆 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeTravelerLee&theme=radical)
 
