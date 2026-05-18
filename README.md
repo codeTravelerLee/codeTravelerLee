@@ -1,25 +1,13 @@
-# Welcome to Lee's Archive⚡✨
+# Hi all!
 
-<!--
-**AI-Developer-Lee-03/AI-Developer-Lee-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4> 📚 Sungkyunkwan University - Applied AI & Computer Science and Engineering(double major) </h4> 
+<h4> 💻 Student SW Engineer at System Consultant Group - https://scg.skku.ac.kr/ </h4>
+</br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeTravelerLee&layout=compact&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=codeTravelerLee&layout=compact&theme=dark&count_private=true)
 
-# 💻 Tech Stack
-
-## 🛠️ Tech Stacks
-
+# 💻 Tech Stacks
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeTravelerLee&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Lee's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=codeTravelerLee&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🏆 GitHub Streak Stats
 
