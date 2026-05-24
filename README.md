@@ -1,6 +1,6 @@
 # Hi all!
 
-<h4> 📚 Sungkyunkwan University - Applied AI & Computer Science and Engineering(double major) </h4> 
+<h4> 📚 Sungkyunkwan University - Applied AI & Computer Science and Engineering(double major) / GPA - 4.26/4.5 </h4> 
 <h4> 💻 Student SW Engineer at System Consultant Group - https://scg.skku.ac.kr/ </h4>
 </br>
 
