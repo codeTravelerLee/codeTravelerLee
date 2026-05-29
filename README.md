@@ -5,7 +5,7 @@
 </br>
 
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=codeTravelerLee&layout=compact&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=codeTravelerLee&layout=compact&count_private=true&include_all_commits=true&bg_color=FFFFFF&text_color=000000&title_color=000000&size_weight=0&count_weight=1&cache=600)
 
 # 💻 Tech Stacks
 
