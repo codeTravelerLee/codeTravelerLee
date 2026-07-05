@@ -1,8 +1,22 @@
 # Hi all!
 
-<h4> 📚 Sungkyunkwan University - Applied AI & Computer Science and Engineering(double major) / GPA - 4.27/4.5 </h4> 
-<h4> 💻 Student SW Engineer at System Consultant Group - https://scg.skku.ac.kr/ </h4>
-</br>
+<section class="profile">
+  <div class="education">
+    <h3>🎓 Education</h3>
+    <p><strong>성균관대학교 (Sungkyunkwan University)</strong><br>
+    Applied AI &amp; Computer Science and Engineering (Double Major)<br>
+    GPA: 4.27 / 4.5</p>
+  </div>
+
+  <div class="experience">
+    <h3>💻 Experience</h3>
+    <ul>
+      <li><strong>Student SW Engineer</strong> @ System Consultant Group<br>
+          <a href="https://scg.skku.ac.kr/" target="_blank">https://scg.skku.ac.kr/</a></li>
+      <li><strong>Research Intern</strong> @ Korea Electronics and Telecommunications Research Institute (ETRI-한국전자통신연구원) (26.07.01 ~ 26.08.31) </li>
+    </ul>
+  </div>
+</section>
 
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=codeTravelerLee&layout=compact&count_private=true&include_all_commits=true&bg_color=FFFFFF&text_color=000000&title_color=000000&size_weight=0&count_weight=1&cache=600)
