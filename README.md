@@ -72,9 +72,6 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=codeTravelerLee&layout=compact&theme=default&bg_color=ffffff&text_color=333333&title_color=1a73e8" />
-</p>
-<p align="center">
   <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=codeTravelerLee&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default&bg_color=ffffff&text_color=333333&icon_color=1a73e8" />
 </p>
 
