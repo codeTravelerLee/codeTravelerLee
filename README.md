@@ -1,67 +1,82 @@
 # Hi all!
-
-<section class="profile">
-  <div class="education">
-    <h3>🎓 Education</h3>
-    <p><strong>성균관대학교 (Sungkyunkwan University)</strong><br>
-    Applied AI &amp; Computer Science and Engineering (Double Major)<br>
-    GPA: 4.27 / 4.5</p>
-  </div>
-
-  <div class="experience">
-    <h3>💻 Experience</h3>
-    <ul>
-      <li><strong>Student SW Engineer</strong> @ System Consultant Group<br>
-          <a href="https://scg.skku.ac.kr/" target="_blank">https://scg.skku.ac.kr/</a></li>
-      <li><strong>Research Intern</strong> @ Korea Electronics and Telecommunications Research Institute (ETRI-한국전자통신연구원) (26.07.01 ~ 26.08.31) </li>
-    </ul>
-  </div>
-</section>
-
-
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=codeTravelerLee&layout=compact&count_private=true&include_all_commits=true&bg_color=FFFFFF&text_color=000000&title_color=000000&size_weight=0&count_weight=1&cache=600)
-
-# 💻 Tech Stacks
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</br>
-
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-<img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-</br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_AGE-4B0082?style=for-the-badge&logo=apache&logoColor=white"/>
-</br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-<p>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="left">
+  <a href="https://www.skku.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Student_at-Sungkyunkwan_University-003626?style=flat-square&logo=graduation-cap" />
+  </a>
+  <img src="https://img.shields.io/badge/GPA-4.27%20%2F%204.5-brightgreen?style=flat-square" />
 </p>
 
+---
 
-## 📊 GitHub Stats
+### 🎓 Education & Experience
 
-![Lee's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=codeTravelerLee&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+* **성균관대학교 (Sungkyunkwan University)**
+  * 인공지능융합전공 & 소프트웨어학과 복수전공 (Applied AI & Computer Science and Engineering)
+  * 학점: **4.27 / 4.5**
 
-## 🏆 GitHub Streak Stats
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeTravelerLee&theme=radical)
+* **System Consultant Group (SCG)**
+  * **Student SW Engineer** ([scg.skku.ac.kr](https://scg.skku.ac.kr/)) (2026.03~)
+  * 교내 학사/행정 시스템 운영 및 레거시 인프라의 Kubernetes 클러스터 이관 (진행중) 
+  * <p align="left">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </p>
 
+<br>
 
+* **한국전자통신연구원 (ETRI)**
+  * **연구연수생** (2026.07.01 ~ 2026.08.31)
+  * vLLM 기반 고성능 LLM 서빙 및 Agentic RAG 시스템 설계·구현
+  * <p align="left">
+      <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/vLLM-4B0082?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agentic_RAG-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+    </p>
+
+---
+
+### 🛠 Tools & Technologies I've Worked With
+
+> **Languages**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+</p>
+
+> **Frameworks**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
+</p>
+
+> **Database**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+> **Infrastructure & DevOps**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,prometheus,grafana" />
+  <!-- skillicons에 미지원되거나 단독 뱃지로 깔끔한 스택 -->
+  <img src="https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" height="40" />
+</p>
+
+> **Collaboration & Tools**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,slack,jira" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=codeTravelerLee&layout=compact&count_private=true&include_all_commits=true&size_weight=0.5&count_weight=0.5&bg_color=ffffff&text_color=333333&title_color=1a73e8&cache=600" />
+  <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=codeTravelerLee&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default&bg_color=ffffff&text_color=333333&icon_color=1a73e8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeTravelerLee&theme=classic" />
+</p>
